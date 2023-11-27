@@ -12,5 +12,6 @@ Test et utilisation de lab-validation-pullrequest
 - Changement 4
 - Changement 5
 - Changement 6
-
 - Changement 7
+
+- Changement 8
