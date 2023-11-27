@@ -7,7 +7,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: https://github.com/labs-web/lab-validation-pullrequest
+        uses: labs-web/lab-validation-pullrequest@v1.2
         with:
           who-to-greet: 'ESSARRAJ Fouad'
       # Use the output from the `hello` step
