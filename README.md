@@ -8,4 +8,5 @@ Test et utilisation de lab-validation-pullrequest
 
 - Changement 1
 - Changement 2
-- 3
+- Changement 3
+- Changement 4
